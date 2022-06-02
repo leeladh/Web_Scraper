@@ -11,6 +11,7 @@ six==1.15.0
 soupsieve==2.2.1
 
 
+
 Website -'http://books.toscrape.com/'
 To run the script in virtual enviornment of python type in terminal
 pip install -r requierment.txt
